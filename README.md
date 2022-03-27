@@ -40,7 +40,7 @@ This first table describes the components I mailordered specifically for this pr
 
 | Category    | Part              | Vendor     | Vendor Part#       | Detail                      | Quantity | Cost/Ea [USD] |
 | ----------- | ----------------- | ---------- | ------------------ | --------------------------- | -------- | ------------- |
-| Pad Frame   |                   | IKEA       | LEGITIM 902.022.68 |                             | 5        | 3.99          |
+| Pad Frame   |                   | IKEA       | LEGITIM 902.022.68 |                             | 5        | 2.99          |
 | Pad Frame   | Base              |            |                    | Base pieces                 | 2        |               |
 | Pad Frame   | Mid               |            |                    | Joining pieces              | 2        |               |
 | Pad Frame   | Top               |            |                    | Center panel                | 2        |               |
