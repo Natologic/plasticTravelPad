@@ -1,6 +1,7 @@
-# plasticTravelPad
+# Plastic Travel Pad (IKEA Travel Pad)
 
-Plastic travel pad made from IKEA cutting boards.
+Plastic travel pad made from IKEA cutting boards. The pad measures only 16"x13.5"x0.85" [LxWxH] and fits into my carry-on suitcase without disassembly.
+![Pad in carry-on suitcase](./img/IMG_3119.JPG)
 
 # Pad Description
 
