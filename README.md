@@ -1,11 +1,12 @@
 # Plastic Travel Pad (IKEA Travel Pad)
 
-Plastic travel pad made from IKEA cutting boards. The pad measures only 16"x13.5"x0.85" [LxWxH] and fits into my carry-on suitcase without disassembly.
-![Pad in carry-on suitcase](./img/IMG_3119.JPG)
+Plastic travel pad made from IKEA cutting boards.
+
+I'm not a great filmmaker but if you want to see a rambling video about my travel pad journey, check out [this YouTube video](https://youtu.be/0u9--4J5Tho)
 
 # Pad Description
 
-This pad comprises mechanical and electrical components, as well as software that runs on the microcontroller and PC.
+This pad comprises mechanical and electrical components, as well as software that runs on the microcontroller and PC. The pad measures only 16"x13.5"x0.85" [LxWxH] and fits into my carry-on suitcase without disassembly. ![Pad in carry-on suitcase](./img/IMG_3119.JPG)
 
 ## Mechanical Components
 
@@ -37,7 +38,7 @@ Here, I'll describe the steps that I followed to design and build this pad.
 
 ## Bill of Materials
 
-This first table describes the components I mailordered specifically for this project and where I obtained them. **Note that I took advantage of Digikey's price breaks for higher order quantities and this table does not reflect these costs at single-quantity**
+This first table describes the components I mailordered specifically for this project and where I obtained them. **Note this list does not include tax or shipping costs, if applicable**
 
 | Category    | Part              | Vendor     | Vendor Part#       | Detail                      | Quantity | Cost/Ea [USD] |
 | ----------- | ----------------- | ---------- | ------------------ | --------------------------- | -------- | ------------- |
@@ -51,7 +52,7 @@ This first table describes the components I mailordered specifically for this pr
 | Hinge       | Hinge Upper       | 3D Printed |                    | PLA, 100% infill            | 8        | 0.0428        |
 | Hinge       | Roll Pin          | Local      |                    | 5/32" Diameter, 1.5" length | 8        | 0.2577        |
 | Pad Sensor  | FSR               | Ebay       | N/A                | Knockoff Intralink          | 4        | 1.695         |
-| Pad Sensor  | FSR Connector     | Digikey    | 609-2178-ND        | Amphenol 66226-004LF        | 8        | 0.92          |
+| Pad Sensor  | FSR Connector     | Digikey    | 609-2178-ND        | Amphenol 66226-004LF        | 4        | 0.92          |
 | General     | Flathead Screw    | Local      |                    | M4-0.7 x 10mm               | 56       | 0.07          |
 | General     | Heat-Set Insert   | Amazon     | Keadic             | M4 x 6mm x 6mm              | 56       | 0.1           |
 | Electronics | Arduino Pro Micro | Various    |                    | 5V Pro Micro, ATMega32u4    | 1        | 5.00          |
